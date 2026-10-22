@@ -3,7 +3,7 @@ export default async function handler(req, res) {
         return res.status(200).send('Bot ishlayapti');
     }
 
-    const TELEGRAM_TOKEN = '8499746416:AAEHUIMc2tqvh9ao6wcv2YMKgQBkwXPXoHc';
+    const TELEGRAM_TOKEN = '8924868649:AAEuu6VDrrCF3AJJUUFP7ngqWTYI5egh-5Y';
     const ADMIN_CHAT_ID = '1024474543';
 
     try {
